@@ -1,8 +1,6 @@
 package com.hack.dto;
 
-/**
- * Created by kobyl on 04.07.2016.
- */
+
 public class FormData {
     private String name;
     private String password;
